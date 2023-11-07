@@ -1,2 +1,3 @@
-# siteformacoes
-Repositório destinado à construção do site das formações de HTML e CSS.
+# Site para divulgação dos projetos feitos no curso Scratch: desenvolvendo jogos através da programação
+
+Fizemos esse site para trabalharmos desenvolvimento web ao longo de nossas formações
